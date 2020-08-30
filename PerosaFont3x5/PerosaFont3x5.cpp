@@ -79,8 +79,9 @@ const uint8_t PROGMEM fontImages[] =
 	// Width, Height
 	3, 5,
 
-
-	/* --- Uppercase --- */
+	//
+	// --- Uppercase ---
+	//
 
 	// #065 Letter 'A' (U+0041 Latin Capital Letter A)
 	0x1E,  // ░░░▓▓▓▓░
@@ -212,8 +213,9 @@ const uint8_t PROGMEM fontImages[] =
 	0x15,  // ░░░▓░▓░▓
 	0x13,  // ░░░▓░░▓▓
 
-
-	/* --- Digits --- */
+	//
+	// --- Digits ---
+	//
 
 	// #048 Number '0' (U+0030 Digit Zero)
 	0x1F,  // ░░░▓▓▓▓▓
@@ -265,8 +267,9 @@ const uint8_t PROGMEM fontImages[] =
 	0x05,  // ░░░░░▓░▓
 	0x1F,  // ░░░▓▓▓▓▓
 
-
-	/* --- Punctuation Group A --- */
+	//
+	// --- Punctuation Group A ---
+	//
 
 	// #033 Symbol '!' (U+0021 Exclamation Mark)
 	0x00,  // ░░░░░░░░
@@ -343,8 +346,9 @@ const uint8_t PROGMEM fontImages[] =
 	0x04,  // ░░░░░▓░░
 	0x03,  // ░░░░░░▓▓
 
-
-/* --- Punctuation Group B --- */
+	//
+	// --- Punctuation Group B ---
+	//
 
 	// #058 Symbol ':' (U+003A Colon)
 	0x00,  // ░░░░░░░░
@@ -381,8 +385,9 @@ const uint8_t PROGMEM fontImages[] =
 	0x00,  // ░░░░░░░░
 	0x00,  // ░░░░░░░░
 
-
-/* --- Punctuation Group C --- */
+	//
+	// --- Punctuation Group C ---
+	//
 
 	// #091 Symbol '[' (U+005B Left Square Bracket)
 	0x00,  // ░░░░░░░░
@@ -414,8 +419,9 @@ const uint8_t PROGMEM fontImages[] =
 	0x01,  // ░░░░░░░▓
 	0x02,  // ░░░░░░▓░
 
-
-	/* --- Punctuation Group D --- */
+	//
+	// --- Punctuation Group D ---
+	//
 
 	// #123 Symbol '{' (U+007B Left Curly Bracket)
 	0x04,  // ░░░░░▓░░
